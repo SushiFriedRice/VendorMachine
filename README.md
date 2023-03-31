@@ -1,2 +1,3 @@
 # VendorMachine
-Hello this is a Vendor System that are kinda in progress?
+Vendor Machine for Airline usage (github repo: https://github.com/SushiFriedRice/VendorMachine.git)
+
