@@ -37,5 +37,12 @@ namespace VendorMachine
                 qrForm.Show();
             }
         }
+
+        private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        {
+            string url = "https://pbgdpl.tiengiang.gov.vn/chi-tiet-tin?/quy-inh-ve-xuat-canh-nhap-canh-cua-cong-dan-viet-nam/21670156";
+
+            System.Diagnostics.Process.Start(url);
+        }
     }
 }
